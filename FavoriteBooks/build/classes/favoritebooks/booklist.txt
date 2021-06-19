@@ -1,0 +1,8 @@
+1,Çiçek Senfonisi,poem,Özdemir Asaf,No Award,2,2021,408,The Symphony of Flowers - Collected Poems brings together seven poetry books published by Özdemir Asaf.
+2,Digital Fortress,novel,Dan Brown,No Award,1,2021,525,Digital Fortress is Dan Brown's first novel and  released in 1998. The novel centers around Susan Fletcher and a head cryptographer  who fights a powerful computer worm that intends on releasing the government's data to the world.
+3,The Great Gatsby,novel,F. Scott Fitzgerald,National Book Award,5,2020,180,The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald.
+4,Harry Potter and the Deathly Hallows,fantastic,J.K. Rowling,Carnegie Medal,5,2019,690,Harry Potter and the Deathly Hallows is a fantasy novel written by British author.
+5,Harry Potter and the Goblet of Fire,fantastic,J.K. Rowling,Scottish Arts Council Book Award,3,2020,734,Harry Potter and the Goblet of Fire is a fantasy novel written by British author J. K. Rowling and the fourth novel in the Harry Potter series.
+6,Davinci Code,novel,Dan Brown,Indies Choice Book Award for Adult Fiction,2,2021,689,The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. 
+7,I Know Why the Caged Bird Sings,autobiography,Maya Angelou,No Award,2,2020,320,I Know Why the Caged Bird Sings is a 1969 autobiography describing the early years of American writer and poet Maya Angelou.
+8,Leaves of Grass,poem,Walt Whitman,No Award,1,2020,456,Leaves of Grass is a poetry collection by American poet Walt Whitman and  First published in 1855.
